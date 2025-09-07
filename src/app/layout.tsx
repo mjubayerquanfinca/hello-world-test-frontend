@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stock Sales Management",
-  description: "Comprehensive stock and sales management platform",
+  title: "Hello World Test",
+  description: "A simple Next.js application",
 };
 
 export default function RootLayout({
